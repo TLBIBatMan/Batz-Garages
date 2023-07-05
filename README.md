@@ -1,10 +1,10 @@
-# qb-garages
+# Batz-Garages
 
 
 
 **ATENTION: THIS SCRIPT USES THE LATEST VERSION OF THE [RADIALMENU](https://github.com/qbcore-framework/qb-radialmenu) AND [QB-CORE](https://github.com/qbcore-framework/qb-core)**
 
-This is a qb-garages script that uses the radialmenu to retrieve and park vehicles.
+This is a Batz-Garages script that uses the radialmenu to retrieve and park vehicles.
 Almost everything is fully customizable to the last bit!
 
 **For screenshots scroll down**
@@ -15,10 +15,10 @@ Almost everything is fully customizable to the last bit!
 
 ## Installation
 
-Drag 'n Drop replace for qb-garages.
+Drag 'n Drop replace for Batz-Garages.
 
 - Delete qb-garages.
-- Drag the downloaded qb-garages folder into the [qb] folder.
+- Drag the downloaded Batz-Garages folder into the [qb] folder.
 - If you want to use the latest features, apply patch1.sql to your DB
 
 ## Features
